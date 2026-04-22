@@ -1,4 +1,4 @@
-# Komplete Geek – Free Phone Course for Seniors
+# Komplete Geek Free Phone Course for Seniors
 
 A simple, friendly, and 100% free web-based course designed to help seniors learn how to use their Android or iPhone devices.
 
